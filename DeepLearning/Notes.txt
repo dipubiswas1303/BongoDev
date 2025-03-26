@@ -1,0 +1,6 @@
+AI -> Any technique that enables computers to mimic human behaviour.
+ML -> Ability to learn without being explicitly programmed.
+DL -> Extract patterns from data using neural nets
+
+
+Machine leqarning requires hand engineered features that are time consuming, not scalable in practice.
